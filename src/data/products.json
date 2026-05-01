@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 25,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Tropical Print Linen Shirt",
+    "brand": "Breeze",
+    "price": 45,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Light and breathable linen shirt to keep you cool in the heat.",
+    "image": "https://images.unsplash.com/photo-1717724162644-75f624f413ca?q=80",
+    "category": "Apparel"
+  },
+  {
+    "id": 3,
+    "name": "Hydrating SPF 50 Sunscreen",
+    "brand": "GlowSkin",
+    "price": 18,
+    "rating": 4.9,
+    "stock": 50,
+    "description": "Broad-spectrum protection without the sticky feeling.",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&q=80",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Woven Beach Tote Bag",
+    "brand": "SandMate",
+    "price": 30,
+    "rating": 4.5,
+    "stock": 12,
+    "description": "Spacious woven tote bag perfect for beach days.",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera Cooling Gel",
+    "brand": "NatureCare",
+    "price": 12,
+    "rating": 4.7,
+    "stock": 40,
+    "description": "Soothe your skin after a long day in the sun.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&q=80",
+    "category": "Skincare"
+  },
+  {
+    "id": 6,
+    "name": "Classic Flip Flops",
+    "brand": "SummerStep",
+    "price": 20,
+    "rating": 4.4,
+    "stock": 35,
+    "description": "Durable and comfortable flip flops for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6?w=800&q=80",
+    "category": "Footwear"
+  }
+]

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  --primary: #f59e0b; /* Amber 500 for Summer Vibe */
+  --primary-focus: #d97706; /* Amber 600 */
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fefce8; /* Yellow 50 */
+}
+
+input.input {
+  background-color: #ffffff !important;
+  color: #111827 !important;
+  border-color: #ffedd5 !important;
+}
+input.input:focus {
+  border-color: #f97316 !important;
+}
